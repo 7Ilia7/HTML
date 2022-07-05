@@ -1,0 +1,27 @@
+HTML -- HyperText Markup Language (каркас, основа и структура)
+CSS -- Cascading Style Sheets (Стилизация автомомбилей(колеса , цвет и т.д.))
+JavaScript - язык програмирования(двигатель любого веб сайта )
+Image 
+
+
+Клиенты взаимодействуют с серверами которые отправляют ему разные
+файлы форматов выше , с разных серверов.
+
+Клиент --Http -- Сервера 
+
+Http-- HyperText transfer protocol
+Tlc -- Transport layer protocol (Транцспортный протокол)
+
+Http+tlc = HTTPS защищеный и шифрованый протокол.
+
+
+Пример HTML файла
+
+<html>
+    <head>
+        <title>Привет голова</title>
+    </head>
+    <body>
+        <h1>ПРивет</h1>
+    </body>
+</html>
